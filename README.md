@@ -104,7 +104,7 @@ ice-futsal-fest/
 
 Default admin credentials:
 - Email: admin@ice.com
-- Password: [set through Firebase console]
+- Password: ganjam
 
 To add admin users:
 1. Go to Firebase Console → Authentication → Users
