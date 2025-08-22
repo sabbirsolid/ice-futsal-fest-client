@@ -236,5 +236,4 @@ To add admin users:
 ## 📞 Support
 
 If you have any questions or issues, please contact:
-- Email: your-email@example.com
-- GitHub Issues: [Create a new issue](https://github.com/your-username/ice-futsal-fest/issues)
+- Email: sabbir.designer21@gmail.com
